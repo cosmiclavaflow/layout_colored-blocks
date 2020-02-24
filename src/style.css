@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.header-container {
+  background: #f00;
+  height: 100px;
+  display: block;
+}
+
+.body-container {
+  background: #008000;
+  height: 100px;
+}
+
+.footer-container {
+  background: #00f;
+  height: 100px;
+}
